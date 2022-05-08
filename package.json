@@ -1,0 +1,17 @@
+{
+  "name": "@game-soft/gameboy",
+  "version": "0.1.0",
+  "main": "lib/main.js",
+  "description": "GameBoy soft list of release dates",
+  "files": [
+    "README.md",
+    "lib/",
+    "data/soft_list.js"
+  ],
+  "repository": "game-soft/gameboy",
+  "author": "daisuke.takayama",
+  "license": "MIT",
+  "ignore": [
+    ".*"
+  ]
+}
